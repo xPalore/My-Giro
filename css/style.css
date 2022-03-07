@@ -1,0 +1,44 @@
+
+h3{
+  font-family: 'gardensc';
+}
+
+h6{
+  font-family: 'gardensc';
+}
+
+.nav-link{
+  font-size: 18px;
+  font-family: 'gardensc';
+}
+
+p{
+  font-family: 'gardensc';
+}
+
+.products{
+  width: 300px;
+  height: 250px;
+}
+
+.avatars{
+  width: 300px;
+  height: 250px;
+}
+
+.col-sm-3{
+  min-width: 300px;
+}
+
+.col{
+  padding-top: 100px;
+}
+
+.scroll-top{
+
+  
+}
+
+.btn-scroll{
+  min-width: 150px;
+}
